@@ -1,5 +1,14 @@
 # Buscarcep
 
+Descrição:
+Este projeto foi desenvolvido utilizando Angular para a construção da interface, com Bootstrap para estilização responsiva e moderna. Além disso, consome a API ViaCEP para buscar automaticamente os dados de endereço a partir de um CEP informado.
+
+Principais Tecnologias:
+
+Angular
+Bootstrap
+Consumo de API (ViaCEP)
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.0.
 
 ## Development server
